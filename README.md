@@ -20,7 +20,7 @@ a aplicação consiste em um pequeno website de cadastro de receitas
     - altere para sua senha registrada no postgresql qdo realizada a instalação
 - execute o comando: python manage.py migrate
 - execute o comando: python manage.py runserver
-- abra http://127.0.0.1:8000/
+- ctrl + click no link após a mensagem "Running on >link<"
 - realize um cadastro
 - efetue o login
 - explore seu novo livro de receitas
