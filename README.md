@@ -28,7 +28,7 @@ a aplicação consiste em um pequeno website de cadastro de receitas
 # Aprendizados
 
 - desenvolvimento de aplicações web utilizando a linguagem Python
-- configuração e conexão de uma aplicação com um banco de dados sql
+- configuração e conexão de uma aplicação com um banco de dados sql(Postgresql)
 - melhoramento de código, reaproveitando em outras partes da aplicação
 - compreensão da arquitetura de uma aplicação feita com Django
 - filtros e listas
